@@ -12,7 +12,7 @@ This is an interactive implementation of Conway's Game of Life, a cellular autom
 3. Install the required dependencies:
    pip install -r requirements.txt
 4. Run the game:
-   python life.py --width 20 --height 20 --fps 5
+   python life.py --width 60 --height 30 --fps 10
 Controls:
 Space: Play/Pause
 N: Single-step
